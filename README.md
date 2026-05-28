@@ -96,5 +96,5 @@ https://github.com/emanuellelaune/codigos_churn
 ---
 
 ## Vídeo da apresentação
-Link: https://drive.google.com/file/d/10rlUPmeVLUXd546WSmu8fY9WCeFmga28/view?usp=sharing 
+Link: https://drive.google.com/file/d/1QTWOhyTsN4OyK0ocd_HaaVbV7iw4S7k3/view?usp=sharing 
 
